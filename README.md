@@ -2,6 +2,8 @@ ani-on 웹뷰앱 / react-native / expo
 
 # 다운로드
 
+window 환경에서 개발되어 안드로이드만 가능합니다.
+
 https://drive.google.com/file/d/1ZKhdNkondaOWWXYvxVSjZUraJhPVPbTs/view?usp=sharing
 
 ## 아이콘
